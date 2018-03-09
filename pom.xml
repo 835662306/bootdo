@@ -28,6 +28,12 @@
 	</properties>
 
 	<dependencies>
+		<!--打war包的依赖-->
+	   <!--<dependency>
+		   <groupId>org.springframework.boot</groupId>
+		   <artifactId>spring-boot-starter-tomcat</artifactId>
+		   <scope>provided</scope>
+	   </dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
